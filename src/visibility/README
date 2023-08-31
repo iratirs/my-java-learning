@@ -1,0 +1,8 @@
+Exercise where I declare static and non-static variables in multiple places and execute them appropriately.
+
+Includes static (A) and non-static (O) variables from other classes
++ variables defined within static and non-static method
++ static and non-static variables with default values (initialised as they are declared)
++ static and non-static variables declared outside but initialised by static and non-static method
++ static and non-static default variables changed by static and non-static methods
++ variable defined within main

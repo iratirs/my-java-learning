@@ -1,0 +1,16 @@
+In the exercise we define static and non-static methods both in the class Methods and in the Main class to be called
+from within the main method of the Main class.
+
+//to call a static method from another class
+ClassName.methodName();
+
+//to call a static method from the same class
+methodName();
+
+//to call a non-static method from another class
+ClassName obj = new ClassName();
+obj.methodName();
+
+//to call a non-static method from Main class
+Main obj = new Main();
+obj.methodName();

@@ -1,0 +1,10 @@
+ArrayList - can repeat values.
+    In MyArrayList I show how to loop through built-in arrays and ArrayLists.
+    In FixedToDynamic I show how to add to an ArrayList and immutable built-in array after converting it with package Arrays.
+
+Print methods:
+    While loop - MyArrayList
+    For-each loop - MyMap + FixedToDynamic
+    For loop backwards - MyArrayList
+    Iterator - MyHashSet
+
